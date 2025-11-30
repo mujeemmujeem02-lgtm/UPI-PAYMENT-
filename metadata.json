@@ -1,0 +1,7 @@
+{
+  "name": "Copy of PayPulse - Smart UPI Simulator",
+  "description": "A modern, simulated UPI payment application featuring transaction history, QR code generation, and AI-powered spending insights using Gemini.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
